@@ -1,8 +1,7 @@
 ---
 title: "Aplicação de Redes Neurais Profunda em Reconhecimento Facial"
 authors:
-- admin
-- João Esmerino de Mesquita
+- mesquita
 date: "2019-07-01T00:00:00Z"
 doi: ""
 

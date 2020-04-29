@@ -1,6 +1,6 @@
 ---
 # Display name
-title: João Esmerino de Mesquita
+title: Joao Esmerino de Mesquita
 
 # Username (this should match the folder name)
 authors:
